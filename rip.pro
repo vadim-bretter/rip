@@ -14,12 +14,12 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     dop.cpp \
     hashes.cpp \
-    ripemd.cpp \
-    dop.cpp \
-    hashes.cpp
+    ripemd.cpp
+
+
 
 HEADERS  += mainwindow.h \
-    ripemd.h \
     ripemd.h
+
 
 FORMS    += mainwindow.ui
